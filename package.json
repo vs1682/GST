@@ -1,0 +1,19 @@
+{
+  "name": "gst",
+  "version": "1.0.0",
+  "description": "gst helper as a command line tool ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vs1682"
+  ],
+  "author": "vs1682",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.10.0",
+    "tty-table": "^2.5.3"
+  }
+}
