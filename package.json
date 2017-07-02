@@ -1,5 +1,5 @@
 {
-  "name": "gst",
+  "name": "gst-india",
   "version": "1.0.0",
   "description": "gst helper as a command line tool ",
   "main": "app.js",
@@ -9,7 +9,13 @@
   "keywords": [
     "vs1682"
   ],
-  "author": "vs1682",
+  "author": {
+    "name": "vs1682",
+    "url": "vs1682.github.io"
+  },
+  "bin":{
+    "gstindia": "app.js"
+  },
   "license": "ISC",
   "dependencies": {
     "chalk": "^1.1.3",
