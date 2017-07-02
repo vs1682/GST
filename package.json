@@ -1,7 +1,11 @@
 {
   "name": "gst-india",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gst helper as a command line tool ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vs1682/GST.git"
+  },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
